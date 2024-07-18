@@ -1,0 +1,50 @@
+[
+  {
+    "word": "abandon",
+    "phonetic": "[əˈbændən]",
+    "pos": "vt",
+    "meaning": "丢弃；放弃，抛弃"
+  },
+  {
+    "word": "ability",
+    "phonetic": "[əˈbiliti]",
+    "pos": "n",
+    "meaning": "能力；能耐，本领"
+  },
+  {
+    "word": "able",
+    "phonetic": "[ˈeibl]",
+    "pos": "a",
+    "meaning": "有能力的；出色的"
+  },
+  {
+    "word": "abnormal",
+    "phonetic": "[æbˈnɔːməl]",
+    "pos": "a",
+    "meaning": "不正常的；变态的"
+  },
+  {
+    "word": "aboard",
+    "phonetic": "[əˈbɔːd]",
+    "pos": "ad",
+    "meaning": "在船(车)上；上船"
+  },
+  {
+    "word": "about",
+    "phonetic": "[ˈəbaut]",
+    "pos": "prep",
+    "meaning": "关于；在…周围"
+  },
+  {
+    "word": "above",
+    "phonetic": "[əˈbʌv]",
+    "pos": "prep",
+    "meaning": "在…上面；高于"
+  },
+  {
+    "word": "abroad",
+    "phonetic": "[əˈbrɔːd]",
+    "pos": "ad",
+    "meaning": "(在)国外；到处"
+  }
+]

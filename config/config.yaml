@@ -1,0 +1,31 @@
+server:
+  name: "service"
+  mode: "release"
+  port: ":8888"
+  privateKey: ${PRIVATE_KEY}
+#log:
+#  level: "debug"
+#  filename: ".web.log"
+#  maxSize: 200
+#  maxAge: 30
+#  maxBackups: 5
+mysql:
+  host: ${DB_HOST}
+  port: ${DB_PORT}
+  user: ${DB_USER}
+  password: ${DB_PASSWORD}
+  dbname: ${DB_NAME}
+redis:
+  host: ${REDIS_ADDR}
+  port: ${REDIS_PORT}
+  password: ""
+  db: 0
+  poolSize: 100
+eth:
+  apiKeyUrl: ${API_KEY_URL}
+  ContractUrl: ${CONTRACT_URL}
+ai:
+  apiKey: ${DIFY_KEY}
+  aiURL: ${DIFY_URL}
+res:
+  wordPath: "res/test.json"
